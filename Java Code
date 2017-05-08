@@ -35,7 +35,7 @@ public class Program extends JFrame {
 	public static void main(String[] args) {
 		System.out.println("Hello, World!");
 		Program frame = new Program();
-		frame.setSize(650,600);
+		frame.setSize(900,700);
 		frame.setVisible(true);
 	  }
 		}
